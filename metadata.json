@@ -1,0 +1,6 @@
+{
+  "name": "کارگردان نمایش رادیویی | Radio Theater Director",
+  "description": "استودیوی حرفه‌ای و هوشمند کارگردانی و تولید نمایش صوتی و تئاتر رادیویی با هوش مصنوعی و دوبله اختصاصی کاراکترها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
